@@ -1,0 +1,9 @@
+D:\work\csharp\interview\interview\bin\Debug\interview.exe.config
+D:\work\csharp\interview\interview\bin\Debug\interview.exe
+D:\work\csharp\interview\interview\bin\Debug\interview.pdb
+D:\work\csharp\interview\interview\obj\Debug\interview.csprojResolveAssemblyReference.cache
+D:\work\csharp\interview\interview\obj\Debug\interview.Form1.resources
+D:\work\csharp\interview\interview\obj\Debug\interview.Properties.Resources.resources
+D:\work\csharp\interview\interview\obj\Debug\interview.csproj.GenerateResource.Cache
+D:\work\csharp\interview\interview\obj\Debug\interview.exe
+D:\work\csharp\interview\interview\obj\Debug\interview.pdb
